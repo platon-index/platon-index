@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="./ai_icon.png" width="160" align="right" alt="相棒の繰瀬アイ">
+<img src="./ai_icon.jpg" width="160" align="right" alt="相棒の繰瀬アイ">
 
 # ぷらとん / platon-index
 
